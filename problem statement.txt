@@ -1,0 +1,4 @@
+“Order Fulfillment & Sales Performance Analysis”
+
+problem Statement ->
+		Analyze order fulfillment, item-level sales, and target vs actual sales performance to identify delays, revenue gaps, and optimization opportunities.
